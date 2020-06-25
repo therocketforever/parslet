@@ -1,6 +1,3 @@
-
-require 'strscan'
-
 require 'parslet/position'
 require 'parslet/source/line_cache'
 

@@ -1,5 +1,4 @@
 
-require 'stringio'
 require 'strscan'
 
 require 'parslet/position'
